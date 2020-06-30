@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I write for shits and giggles
 Use the left arrow to go back!
